@@ -1,0 +1,51 @@
+
+export const en = {
+  "home": {
+    "badge": "AI Learning Companion",
+    "heroTitle": "Master Any",
+    "heroTitleColor": "Subject",
+    "heroSubtitle": "Your Personal Tutor.",
+    "heroDesc": "EduMind adapts to your learning style. Get instant explanations, visualize concepts, and master difficult topics with Socratic guidance.",
+    "btnStart": "Start Learning",
+    "btnRadar": "My Progress",
+    "btnEdu": "Concept Map",
+    "btnSim": "Quiz Arena",
+    "featuresTitle": "Why EduMind?",
+    "featuresSubtitle": "Built for students, powered by Gemini.",
+    "f1Title": "Socratic Tutor",
+    "f1Desc": "I don't just give answers. I guide you to the solution to ensure deep understanding.",
+    "f2Title": "Visual Learning",
+    "f2Desc": "Upload homework photos or diagrams. I analyze them instantly.",
+    "f3Title": "Voice Mode",
+    "f3Desc": "Ask questions naturally and listen to explanations on the go."
+  },
+  "analysisInput": {
+    "tabs": { "text": "Ask", "image": "Scan", "voice": "Voice", "camera": "Live" },
+    "sourceLabel": "Subject",
+    "textPlaceholder": "Type your question here (e.g. 'Explain Newton's 2nd Law')...",
+    "clickToUpload": "Upload Homework",
+    "scanBtn": "Ask Tutor",
+    "liveTitle": "Homework Helper",
+    "liveDesc": "Point your camera at a textbook problem for instant verbal help.",
+    "openScannerBtn": "Start Helper",
+    "voice": { "recording": "Listening..." }
+  },
+  "analysisResult": {
+    "mastery": "Concept Mastered",
+    "misconception": "Misconception Detected",
+    "explanation": "Tutor Explanation",
+    "nextSteps": "Test Your Knowledge",
+    "analyzeNew": "Ask Another Question"
+  },
+  "liveScanner": {
+    "title": "Homework Helper",
+    "subtitle": "Visual Q&A"
+  },
+  "simulation": {
+    "title": "Adaptive Quiz",
+    "subtitle": "Questions get harder as you improve.",
+    "startBtn": "Start Quiz",
+    "winTitle": "Quiz Complete!",
+    "back": "Exit"
+  }
+};

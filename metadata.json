@@ -1,0 +1,9 @@
+{
+  "name": "EduMind",
+  "description": "An AI-powered adaptive learning platform offering Socratic tutoring, personalized assessments, and multimodal homework assistance using Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
